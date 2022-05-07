@@ -20,7 +20,7 @@ class A1 {
 	static int b ;
 	static int c=0;
 	
-	A1(){
+	 A1(){
 		c++;
 	}
 	
